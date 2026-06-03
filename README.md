@@ -34,10 +34,5 @@
 
 ---
 
-## ⚙️ نحوه اجرا به صورت محلی
-
-برای اجرای این پروژه روی سیستم خودت، مراحل زیر رو دنبال کن:
-
-۱. ابتدا مخزن رو کلون کن:
 ```bash
 git clone [https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git)
